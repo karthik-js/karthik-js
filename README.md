@@ -17,12 +17,11 @@
 
 Lead Frontend Engineer with **8+ years** building high-traffic web platforms — from startup MVPs to enterprise-grade B2B e-commerce serving multiple global markets.
 
-Currently at **Publicis Sapient**, leading ~10 frontend engineers across two parallel delivery tracks on a TypeScript monorepo. I'm passionate about **platform architecture**, **developer experience**, and using **AI-augmented workflows** to ship faster and better.
+I'm passionate about **platform architecture**, **developer experience**, and using **AI-augmented workflows** to ship faster and better.
 
 - 🏢 &nbsp;**Lead Experience Engineer** @ Publicis Sapient, Hyderabad
 - ⚡ &nbsp;Drove **~20% page-load improvement** on a multi-market B2B platform
 - 🤖 &nbsp;Built an agentic AI pipeline (4 Copilot agents, 8 skills, 7 MCP servers) cutting ticket-closure time by **~35%**
-- 🧪 &nbsp;Grew test suite to **4,500+ tests** and lifted coverage from 88% → **96%**
 - 🦀 &nbsp;Currently learning **Rust** (baby steps!)
 - 🍳 &nbsp;Into cooking — always trying new recipes
 
