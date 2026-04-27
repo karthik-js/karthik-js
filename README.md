@@ -4,7 +4,7 @@
 
 ### Lead Frontend Engineer · Next.js Platform Architecture · AI-Augmented Engineering
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthik-portfolio-sable-chi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthik.run/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-talam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiktalam8@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/karthik-js?style=for-the-badge&logo=github&color=3382ed&labelColor=1c1917)](https://github.com/karthik-js)
