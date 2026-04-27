@@ -67,35 +67,6 @@ I'm passionate about **platform architecture**, **developer experience**, and us
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-FF6B35?style=flat-square)
 
----
-
-## 📈 Career Highlights
-
-| Impact | Detail |
-|---|---|
-| 🏎️ **~20% faster page loads** | Led performance squad (LCP, CLS, INP) on enterprise B2B platform |
-| 🤖 **~35% faster ticket closure** | Agentic AI pipeline: Jira → PR with custom Copilot agents & MCP servers |
-| 💬 **75% fewer review comments** | AI-assisted review workflow across ~10 engineers |
-| 🧪 **4,500+ tests · 96% coverage** | Authored project-wide testing playbook; enforced 90%+ CI gate |
-| 📦 **~77% icon payload reduction** | SVG sprite system replacing 250+ React icon components (~5.1 MB saved) |
-| 🚀 **4x scale, 2x sign-ups** | Creator platform at Backstage Technologies |
-| ⚡ **30% lower API latency** | Consolidated 3 microservices into one at Backstage |
-| 🌐 **Google first-page rankings** | SEO architecture for Harbormoor marine marketplace |
-
----
-
-## 💼 Experience
-
-```
-Lead Experience Engineer    Publicis Sapient          Nov 2024 – Present
-Senior Frontend Engineer    Nordek Technologies        Jan 2024 – Aug 2024
-Senior Product Developer    Backstage Technologies     Aug 2021 – Dec 2023
-Senior Software Engineer    Mindship Technologies      Aug 2020 – Jul 2021
-MERN Developer              Lavupos Technologies       Aug 2019 – Apr 2020
-Full-Stack Developer        Suraaga Technologies       Jun 2017 – Jul 2019
-```
-
----
 
 ## 📊 GitHub Stats
 
